@@ -1,4 +1,4 @@
-YOGHURT SALES ANALYSIS 
+#YOGHURT SALES ANALYSIS 
 PROJECT OVERVIEW
 The project focuses on the design and implementation of an interactive Power BI dashboard, supported by advanced analytics, to evaluate yoghurt sales performance for the 2022 fiscal year.
 
